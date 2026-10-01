@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img">
+<title>The five editing tools</title>
+<rect x="26" y="10.5" width="212" height="179" rx="14" fill="#f6f7fd" stroke="#dfe3ee"/>
+<rect x="80" y="28" width="104" height="64" rx="8" fill="#ffffff" stroke="#dfe3ee"/>
+<text x="132" y="72" font-size="34" font-weight="700" text-anchor="middle" fill="#6366f1">Aa</text>
+<text x="132" y="122" font-size="17" font-weight="700" text-anchor="middle" fill="#182135">Text</text><text x="132" y="146" font-size="13" text-anchor="middle" fill="#5b6478">Helvetica text box,</text><text x="132" y="164" font-size="13" text-anchor="middle" fill="#5b6478">any size and color</text>
+<rect x="260" y="10.5" width="212" height="179" rx="14" fill="#f6f7fd" stroke="#dfe3ee"/>
+<rect x="314" y="28" width="104" height="64" rx="8" fill="#ffffff" stroke="#dfe3ee"/>
+<circle cx="392" cy="46" r="7" fill="#fde68a"/><path d="M322 84l26-30 18 20 12-12 30 22z" fill="#6366f1" opacity="0.85"/>
+<text x="366" y="122" font-size="17" font-weight="700" text-anchor="middle" fill="#182135">Image</text><text x="366" y="146" font-size="13" text-anchor="middle" fill="#5b6478">PNG or JPEG, aspect</text><text x="366" y="164" font-size="13" text-anchor="middle" fill="#5b6478">ratio preserved</text>
+<rect x="494" y="10.5" width="212" height="179" rx="14" fill="#f6f7fd" stroke="#dfe3ee"/>
+<rect x="548" y="28" width="104" height="64" rx="8" fill="#ffffff" stroke="#dfe3ee"/>
+<rect x="560" y="42" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="560" y="55" width="64" height="6" rx="3" fill="#cfd4e0"/><rect x="560" y="68" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="560" y="81" width="48" height="6" rx="3" fill="#cfd4e0"/><rect x="555" y="50" width="90" height="24" fill="none" stroke="#6366f1" stroke-width="2.5"/>
+<text x="600" y="122" font-size="17" font-weight="700" text-anchor="middle" fill="#182135">Rectangle</text><text x="600" y="146" font-size="13" text-anchor="middle" fill="#5b6478">2 pt outline in</text><text x="600" y="164" font-size="13" text-anchor="middle" fill="#5b6478">your color</text>
+<rect x="728" y="10.5" width="212" height="179" rx="14" fill="#f6f7fd" stroke="#dfe3ee"/>
+<rect x="782" y="28" width="104" height="64" rx="8" fill="#ffffff" stroke="#dfe3ee"/>
+<rect x="794" y="42" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="794" y="55" width="64" height="6" rx="3" fill="#cfd4e0"/><rect x="794" y="68" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="794" y="81" width="48" height="6" rx="3" fill="#cfd4e0"/><rect x="790" y="51" width="72" height="14" rx="2" fill="#fde68a" opacity="0.6"><animate attributeName="width" values="0;72;72;0" keyTimes="0;0.4;0.9;1" dur="5s" repeatCount="indefinite"/></rect>
+<text x="834" y="122" font-size="17" font-weight="700" text-anchor="middle" fill="#182135">Highlight</text><text x="834" y="146" font-size="13" text-anchor="middle" fill="#5b6478">Translucent fill</text><text x="834" y="164" font-size="13" text-anchor="middle" fill="#5b6478">over content</text>
+<rect x="962" y="10.5" width="212" height="179" rx="14" fill="#f6f7fd" stroke="#dfe3ee"/>
+<rect x="1016" y="28" width="104" height="64" rx="8" fill="#ffffff" stroke="#dfe3ee"/>
+<rect x="1028" y="42" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="1028" y="55" width="64" height="6" rx="3" fill="#cfd4e0"/><rect x="1028" y="68" width="80" height="6" rx="3" fill="#cfd4e0"/><rect x="1028" y="81" width="48" height="6" rx="3" fill="#cfd4e0"/><rect x="1024" y="50" width="72" height="18" fill="#ffffff" stroke="#5b6478" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="1068" y="122" font-size="17" font-weight="700" text-anchor="middle" fill="#182135">Cover</text><text x="1068" y="146" font-size="13" text-anchor="middle" fill="#5b6478">Opaque white patch</text><text x="1068" y="164" font-size="13" text-anchor="middle" fill="#5b6478">(not redaction)</text>
+</svg>

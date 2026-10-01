@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img">
+<title>Still - a local desktop PDF editor</title>
+<rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="#111522" stroke="#2a3147"/>
+<text x="56" y="92" font-size="12" font-weight="700" letter-spacing="2.4" fill="#818cf8">DESKTOP PDF EDITOR</text>
+<text x="52" y="172" font-size="80" font-weight="800" fill="#e6e9f2">Still</text>
+<text x="56" y="218" font-size="24" font-weight="600" fill="#e6e9f2">A quiet, local PDF editor.</text>
+<text x="56" y="254" font-size="16" fill="#9aa3b8">Add text, images, shapes and highlights.</text>
+<text x="56" y="278" font-size="16" fill="#9aa3b8">Your documents never leave your computer.</text>
+<rect x="56" y="306" width="96" height="30" rx="15" fill="#23284a"/><text x="104" y="326" font-size="13" font-weight="600" text-anchor="middle" fill="#818cf8">Python</text>
+<rect x="164" y="306" width="96" height="30" rx="15" fill="#23284a"/><text x="212" y="326" font-size="13" font-weight="600" text-anchor="middle" fill="#818cf8">PySide6</text>
+<rect x="272" y="306" width="96" height="30" rx="15" fill="#23284a"/><text x="320" y="326" font-size="13" font-weight="600" text-anchor="middle" fill="#818cf8">PyMuPDF</text>
+<rect x="600" y="48" width="544" height="304" rx="12" fill="#1a2033" stroke="#2a3147"/>
+<path d="M600 80h544" stroke="#2a3147"/>
+<circle cx="620" cy="64" r="5" fill="#f87171"/>
+<circle cx="638" cy="64" r="5" fill="#fbbf24"/>
+<circle cx="656" cy="64" r="5" fill="#34d399"/>
+<text x="872" y="69" font-size="12" text-anchor="middle" fill="#9aa3b8">Still • PDF editor</text>
+<text x="618" y="106" font-size="10" font-weight="700" letter-spacing="1" fill="#9aa3b8">EDIT THE PAGE</text>
+<rect x="614" y="118" width="122" height="22" rx="5" fill="#23284a" stroke="#818cf8"/><text x="624" y="133" font-size="12" font-weight="600" fill="#818cf8">Text</text>
+<rect x="614" y="146" width="122" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="624" y="161" font-size="12" font-weight="400" fill="#e6e9f2">Image</text>
+<rect x="614" y="174" width="122" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="624" y="189" font-size="12" font-weight="400" fill="#e6e9f2">Rectangle</text>
+<rect x="614" y="202" width="122" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="624" y="217" font-size="12" font-weight="400" fill="#e6e9f2">Highlight</text>
+<rect x="614" y="230" width="122" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="624" y="245" font-size="12" font-weight="400" fill="#e6e9f2">Cover</text>
+<rect x="614" y="270" width="57" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="642.5" y="285" font-size="11" text-anchor="middle" fill="#e6e9f2">Undo</text>
+<rect x="679" y="270" width="57" height="22" rx="5" fill="none" stroke="#2a3147"/><text x="707.5" y="285" font-size="11" text-anchor="middle" fill="#9aa3b8">Redo</text>
+<path d="M750 80v271.5h382a12 12 0 0 0 12-12V80z" fill="#0c0f1a"/>
+<rect x="832" y="96" width="230" height="244" rx="2" fill="#262d44" stroke="#2a3147"/>
+<rect x="856" y="120" width="120" height="10" rx="3" fill="#e6e9f2" opacity="0.8"/>
+<rect x="856" y="148" width="182" height="6" rx="3" fill="#4a5372"/>
+<rect x="856" y="162" width="170" height="6" rx="3" fill="#4a5372"/>
+<rect x="856" y="176" width="182" height="6" rx="3" fill="#4a5372"/>
+<rect x="856" y="190" width="140" height="6" rx="3" fill="#4a5372"/>
+<rect x="852" y="144" width="190" height="14" rx="2" fill="#a16207" opacity="0.45"/>
+<rect x="856" y="300" width="182" height="6" rx="3" fill="#4a5372"/>
+<rect x="856" y="314" width="96" height="6" rx="3" fill="#4a5372"/>
+<rect x="856" y="226" width="0" height="0" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-width="1.5" stroke-dasharray="5 4"><animate attributeName="width" values="0;0;182;182;182;0" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;44;44;44;0" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0;0;0" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="862" y="254" font-size="17" font-weight="600" fill="#818cf8" opacity="0">Reviewed — looks good<animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/></text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0;0" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="856 226;856 226;1038 270;1038 270;1038 270;856 226" keyTimes="0;0.1;0.35;0.42;0.92;1" dur="7s" repeatCount="indefinite"/><path d="M0 0l0 15 4-4 3 7 3-1-3-7 6 0z" fill="#e6e9f2" stroke="#1a2033" stroke-width="1"/></g>
+</svg>
